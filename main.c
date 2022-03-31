@@ -5,7 +5,7 @@ int additional(int,int);
 int main(int argc, char* agv[])
 {
     int a,b,c;
-    printf("숫자 두개를 입력해주세요: ");
+    printf("숫자 두개를 입력해주세요 (예> 1 2): ");
     scanf("%d %d",&a, &b);
     c = add(a,b)
     printf("add = %d\n",c);
