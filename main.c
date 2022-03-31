@@ -13,6 +13,5 @@ int main(int argc, char* agv[])
 
 int additional (int a, int b)
 {
-    //TODO implementaion
-    return 0;
+    return a + b;
 }
