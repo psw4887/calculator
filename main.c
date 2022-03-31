@@ -1,3 +1,8 @@
+/*
+v1.0
+2022-03-31
+*/
+
 #include <stdio.h>
 
 int additional(int,int);
